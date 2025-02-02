@@ -1,0 +1,26 @@
+Circuit: * D:\CraneSoft\Privat\Fahrrad-Anhänger\E-Antrieb\Arduino-BLE\LTspice\PoweSwitch.asc
+
+Limiting rise time of source v4 to 0.0002
+Limiting fall time of source v4 to 0.0002
+Limiting rise time of source v2 to 0.0002
+Limiting fall time of source v2 to 0.0002
+WARNING: Less than two connections to node N009.  This node is used by V2.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Oct 19 14:28:12 2023
+Total elapsed time: 0.127 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3190
+traniter = 3159
+tranpoints = 1296
+accept = 1208
+rejected = 88
+matrix size = 30
+fillins = 12
+solver = Normal
+Matrix Compiler1: 1.69 KB object code size  0.3/0.2/[0.2]
+Matrix Compiler2: off  [0.2]/0.3/0.2
+

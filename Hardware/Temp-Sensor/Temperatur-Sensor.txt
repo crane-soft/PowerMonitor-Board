@@ -1,0 +1,8 @@
+https://www.elektronik-kompendium.de/sites/praxis/bauteil_ds18b20.htm
+https://beelogger.de/sensoren/temperatursensor-ds18b20/
+
+
+Pinbelegung je nach Version:
+ rot (VCC), gelb (DATA), schwarz (GND)
+ rot (VCC), weiß (DATA), schwarz (GND)
+ rot (VCC), gelb (DATA), weiß (GND)			<-- meine

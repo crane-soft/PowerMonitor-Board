@@ -1,0 +1,11 @@
+ASC724  5V-VCC
+ASC725  3V3-VCC
+
+5A- 724 Unipolar
+ACS724LLCTR-05AU
+https://www.mouser.de/ProductDetail/Allegro-MicroSystems/ACS724LLCTR-05AU-T?qs=pUKx8fyJudC3f6AQOezPDA%3D%3D
+
+Bei DigiKey besellt:
+
+Es gibt auch den ACS725 nit 3V3 VCC
+https://shop.watterott.com/ACS725-Stromsensor-Breakout-10A-DC

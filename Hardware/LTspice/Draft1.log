@@ -1,0 +1,23 @@
+Circuit: * D:\CraneSoft\Privat\Fahrrad-Anhänger\E-Antrieb\Arduino-BLE\LTspice\Draft1.asc
+
+Limiting rise time of source v2 to 0.0002
+Limiting fall time of source v2 to 0.0002
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Oct 08 21:28:19 2023
+Total elapsed time: 0.108 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3895
+traniter = 3881
+tranpoints = 1298
+accept = 1229
+rejected = 69
+matrix size = 17
+fillins = 0
+solver = Normal
+Matrix Compiler1:      56 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2: off  [0.1]/0.2/0.1
+
